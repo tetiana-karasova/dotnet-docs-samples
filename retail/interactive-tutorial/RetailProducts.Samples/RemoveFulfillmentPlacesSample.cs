@@ -24,6 +24,12 @@ using System.Threading;
 /// </summary>
 public class RemoveFulfillmentPlacesSample
 {
+    // The request timestamp
+    private static readonly DateTime RequestTimeStamp = DateTime.Now.ToUniversalTime();
+
+    // The outdated request timestamp:
+    // RequestTimeStamp = DateTime.Now.ToUniversalTime().AddDays(-1);
+
     /// <summary>
     /// Get the remove fulfillment places request.
     /// </summary>
@@ -35,6 +41,7 @@ public class RemoveFulfillmentPlacesSample
         {
             Product = productName,
             Type = "pickup-in-store",
+            RemoveTime = Timestamp.FromDateTime(RequestTimeStamp),
             AllowMissing = true,
             PlaceIds = { "store0" }
         };
