@@ -1,0 +1,28 @@
+[33m4cd53289[m[33m ([m[1;36mHEAD -> [m[1;32mretail-product-tutorial[m[33m, [m[1;31morigin/retail-product-tutorial[m[33m)[m HEAD@{0}: reset: moving to ORIG_HEAD
+[33mb3cca6d2[m HEAD@{1}: reset: moving to HEAD@{1}
+[33m4cd53289[m[33m ([m[1;36mHEAD -> [m[1;32mretail-product-tutorial[m[33m, [m[1;31morigin/retail-product-tutorial[m[33m)[m HEAD@{2}: checkout: moving from b3cca6d2e29a3a0f1a0c88aa6cc6769ecfb3d156 to retail-product-tutorial
+[33mb3cca6d2[m HEAD@{3}: rebase (squash): Added tutorials for AddFulfillmentPlaces, RemoveFulfillmentPlaces, SetInventory
+[33mc1d4e945[m HEAD@{4}: rebase (start): checkout HEAD~2
+[33m929a9dea[m[33m ([m[1;31morigin/retail-products[m[33m, [m[1;32mretail-products[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33m929a9dea[m[33m ([m[1;31morigin/retail-products[m[33m, [m[1;32mretail-products[m[33m)[m HEAD@{6}: checkout: moving from retail-product-tutorial to retail-products
+[33m4cd53289[m[33m ([m[1;36mHEAD -> [m[1;32mretail-product-tutorial[m[33m, [m[1;31morigin/retail-product-tutorial[m[33m)[m HEAD@{7}: commit: Added tutorials for delete_product, crud_product
+[33m6932912a[m HEAD@{8}: checkout: moving from retail-products to retail-product-tutorial
+[33m929a9dea[m[33m ([m[1;31morigin/retail-products[m[33m, [m[1;32mretail-products[m[33m)[m HEAD@{9}: checkout: moving from retail-product-tutorial to retail-products
+[33m6932912a[m HEAD@{10}: checkout: moving from retail-products to retail-product-tutorial
+[33m929a9dea[m[33m ([m[1;31morigin/retail-products[m[33m, [m[1;32mretail-products[m[33m)[m HEAD@{11}: commit: remove tutorials folder
+[33mc1d4e945[m HEAD@{12}: pull --progress --no-edit --no-stat --recurse-submodules=no origin: Fast-forward
+[33meb64229d[m HEAD@{13}: checkout: moving from retail-product-tutorial to retail-products
+[33m6932912a[m HEAD@{14}: reset: moving to HEAD
+[33m6932912a[m HEAD@{15}: commit: Restored samples
+[33m8178ef91[m HEAD@{16}: commit: Added tutorials for create_product, get_product. update_product
+[33m3eca5eb6[m HEAD@{17}: commit: Added tutorials for: AddFulfillmentPlaces, SetInventory, RemoveFulfillmentPlaces
+[33meb64229d[m HEAD@{18}: checkout: moving from retail-products to retail-product-tutorial
+[33meb64229d[m HEAD@{19}: checkout: moving from retail-products-tutorials to retail-products
+[33m8a14a55a[m[33m ([m[1;32mretail-products-tutorials[m[33m)[m HEAD@{20}: commit: Added tutorials for: AddFulfillmentPlaces, SetInventory, RemoveFulfillmentPlace
+[33meb64229d[m HEAD@{21}: reset: moving to HEAD~
+[33m9725b2d5[m HEAD@{22}: commit: Added tutorials for: AddFulfillmentPlaces, SetInventory, RemoveFulfillmentPlaces
+[33meb64229d[m HEAD@{23}: reset: moving to HEAD~
+[33mf59b5496[m[33m ([m[1;31morigin/retail-products-tutorials[m[33m)[m HEAD@{24}: commit: Added tutorials for: AddFulfillmentPlaces, SetInventory, RemoveFulfillmentPlaces
+[33meb64229d[m HEAD@{25}: checkout: moving from retail-products to retail-products-tutorials
+[33meb64229d[m HEAD@{26}: checkout: moving from main to retail-products
+[33me0cd62af[m[33m ([m[1;32mmain[m[33m)[m HEAD@{27}: clone: from https://github.com/tetiana-karasova/dotnet-docs-samples.git
